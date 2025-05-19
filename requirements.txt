@@ -1,0 +1,20 @@
+# This is a requirements file for a machine learning project.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+xgboost
+lightgbm
+catboost
+tensorflow
+torch
+torchvision
+streamlit
+fastapi
+uvicorn
+optuna
+joblib  # for saving models
+imbalanced-learn  # for handling imbalanced datasets
+shap # for model interpretability
